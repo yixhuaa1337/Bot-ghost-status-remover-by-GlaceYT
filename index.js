@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["[MPR] Bot", "under-development but working dw"];
-const statusTypes = [ 'online'];
+const statusTypes = [ 'streaming'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
